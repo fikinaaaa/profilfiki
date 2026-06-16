@@ -1,0 +1,13 @@
+{
+  "name": "profil-fiki",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "npx serve .",
+    "deploy": "vercel --prod"
+  },
+  "devDependencies": {
+    "serve": "^14.2.4",
+    "vercel": "^54.14.0"
+  }
+}
