@@ -3,11 +3,9 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "start": "npx serve .",
-    "deploy": "vercel --prod"
+    "start": "npx serve ."
   },
   "devDependencies": {
-    "serve": "^14.2.4",
-    "vercel": "^54.14.0"
+    "serve": "^14.2.4"
   }
 }
